@@ -1,0 +1,5434 @@
+[
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Range Module",
+    "frequency": 0,
+    "link": "range-module",
+    "id": 715
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Best Time to Buy and Sell Stock with Transaction Fee",
+    "frequency": 0,
+    "link": "best-time-to-buy-and-sell-stock-with-transaction-fee",
+    "id": 714
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Subarray Product Less Than K",
+    "frequency": 0,
+    "link": "subarray-product-less-than-k",
+    "id": 713
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Minimum ASCII Delete Sum for Two Strings",
+    "frequency": 0,
+    "link": "minimum-ascii-delete-sum-for-two-strings",
+    "id": 712
+  },
+  {
+    "paid_only": true,
+    "level": 3,
+    "title": "Number of Distinct Islands II",
+    "frequency": 59.49661877434292,
+    "link": "number-of-distinct-islands-ii",
+    "id": 711
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Falling Squares",
+    "frequency": 3.9487707289300715,
+    "link": "falling-squares",
+    "id": 699
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Partition to K Equal Sum Subsets",
+    "frequency": 83.9923883053925,
+    "link": "partition-to-k-equal-sum-subsets",
+    "id": 698
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Degree of an Array",
+    "frequency": 160.6355619558279,
+    "link": "degree-of-an-array",
+    "id": 697
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Count Binary Substrings",
+    "frequency": 128.21692482221218,
+    "link": "count-binary-substrings",
+    "id": 696
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Max Area of Island",
+    "frequency": 243.16989806204577,
+    "link": "max-area-of-island",
+    "id": 695
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "Number of Distinct Islands",
+    "frequency": 6.581284548216786,
+    "link": "number-of-distinct-islands",
+    "id": 694
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Binary Number with Alternating Bits",
+    "frequency": 102.37361434333181,
+    "link": "binary-number-with-alternating-bits",
+    "id": 693
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Top K Frequent Words",
+    "frequency": 121.77799129303853,
+    "link": "top-k-frequent-words",
+    "id": 692
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Stickers to Spell Word",
+    "frequency": 39.49006724107255,
+    "link": "stickers-to-spell-word",
+    "id": 691
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Employee Importance",
+    "frequency": 230.3829554001876,
+    "link": "employee-importance",
+    "id": 690
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Maximum Sum of 3 Non-Overlapping Subarrays",
+    "frequency": 199.32439607932972,
+    "link": "maximum-sum-of-3-non-overlapping-subarrays",
+    "id": 689
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Knight Probability in Chessboard",
+    "frequency": 17.67238157119462,
+    "link": "knight-probability-in-chessboard",
+    "id": 688
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Longest Univalue Path",
+    "frequency": 110.54878023190841,
+    "link": "longest-univalue-path",
+    "id": 687
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Repeated String Match",
+    "frequency": 103.51805544259761,
+    "link": "repeated-string-match",
+    "id": 686
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Redundant Connection II",
+    "frequency": 75.3510835002069,
+    "link": "redundant-connection-ii",
+    "id": 685
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Redundant Connection",
+    "frequency": 21.907807356996926,
+    "link": "redundant-connection",
+    "id": 684
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "K Empty Slots",
+    "frequency": 337.354056249953,
+    "link": "k-empty-slots",
+    "id": 683
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Baseball Game",
+    "frequency": 196.0550882481252,
+    "link": "baseball-game",
+    "id": 682
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Next Closest Time",
+    "frequency": 289.5946374213932,
+    "link": "next-closest-time",
+    "id": 681
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Valid Palindrome II",
+    "frequency": 113.4764925166173,
+    "link": "valid-palindrome-ii",
+    "id": 680
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "24 Game",
+    "frequency": 115.78771869304657,
+    "link": "24-game",
+    "id": 679
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Valid Parenthesis String",
+    "frequency": 128.9481994977189,
+    "link": "valid-parenthesis-string",
+    "id": 678
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Map Sum Pairs",
+    "frequency": 30.132525768228277,
+    "link": "map-sum-pairs",
+    "id": 677
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Implement Magic Dictionary",
+    "frequency": 55.86237478438028,
+    "link": "implement-magic-dictionary",
+    "id": 676
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Cut Off Trees for Golf Event",
+    "frequency": 111.05008205251099,
+    "link": "cut-off-trees-for-golf-event",
+    "id": 675
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Longest Continuous Increasing Subsequence",
+    "frequency": 244.49005203611915,
+    "link": "longest-continuous-increasing-subsequence",
+    "id": 674
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Number of Longest Increasing Subsequence",
+    "frequency": 156.21515136518153,
+    "link": "number-of-longest-increasing-subsequence",
+    "id": 673
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Bulb Switcher II",
+    "frequency": 191.5821512618326,
+    "link": "bulb-switcher-ii",
+    "id": 672
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Second Minimum Node In a Binary Tree",
+    "frequency": 101.8813845311744,
+    "link": "second-minimum-node-in-a-binary-tree",
+    "id": 671
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Maximum Swap",
+    "frequency": 198.00813916968636,
+    "link": "maximum-swap",
+    "id": 670
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Trim a Binary Search Tree",
+    "frequency": 318.7632167656073,
+    "link": "trim-a-binary-search-tree",
+    "id": 669
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Kth Smallest Number in Multiplication Table",
+    "frequency": 73.66449275369584,
+    "link": "kth-smallest-number-in-multiplication-table",
+    "id": 668
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Beautiful Arrangement II",
+    "frequency": 234.53701952277163,
+    "link": "beautiful-arrangement-ii",
+    "id": 667
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "Path Sum IV",
+    "frequency": 22.552649963846306,
+    "link": "path-sum-iv",
+    "id": 666
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Non-decreasing Array",
+    "frequency": 128.81650730147058,
+    "link": "non-decreasing-array",
+    "id": 665
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Strange Printer",
+    "frequency": 190.44011414388186,
+    "link": "strange-printer",
+    "id": 664
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "Equal Tree Partition",
+    "frequency": 50.91142381610638,
+    "link": "equal-tree-partition",
+    "id": 663
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Maximum Width of Binary Tree",
+    "frequency": 87.61974965695569,
+    "link": "maximum-width-of-binary-tree",
+    "id": 662
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Image Smoother",
+    "frequency": 250.4774224494492,
+    "link": "image-smoother",
+    "id": 661
+  },
+  {
+    "paid_only": true,
+    "level": 3,
+    "title": "Remove 9",
+    "frequency": 104.94340094876256,
+    "link": "remove-9",
+    "id": 660
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Split Array into Consecutive Subsequences",
+    "frequency": 140.0542702792046,
+    "link": "split-array-into-consecutive-subsequences",
+    "id": 659
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Find K Closest Elements",
+    "frequency": 112.36017087430875,
+    "link": "find-k-closest-elements",
+    "id": 658
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Judge Route Circle",
+    "frequency": 501.0072496337995,
+    "link": "judge-route-circle",
+    "id": 657
+  },
+  {
+    "paid_only": true,
+    "level": 3,
+    "title": "Coin Path",
+    "frequency": 5.265027638573429,
+    "link": "coin-path",
+    "id": 656
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Print Binary Tree",
+    "frequency": 175.75298094797577,
+    "link": "print-binary-tree",
+    "id": 655
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Maximum Binary Tree",
+    "frequency": 281.3612223973194,
+    "link": "maximum-binary-tree",
+    "id": 654
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Two Sum IV - Input is a BST",
+    "frequency": 232.92873069756166,
+    "link": "two-sum-iv-input-is-a-bst",
+    "id": 653
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Find Duplicate Subtrees",
+    "frequency": 192.99044938378276,
+    "link": "find-duplicate-subtrees",
+    "id": 652
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "4 Keys Keyboard",
+    "frequency": 31.700213868859862,
+    "link": "4-keys-keyboard",
+    "id": 651
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "2 Keys Keyboard",
+    "frequency": 119.14547747375181,
+    "link": "2-keys-keyboard",
+    "id": 650
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Dota2 Senate",
+    "frequency": 23.868906873489664,
+    "link": "dota2-senate",
+    "id": 649
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Replace Words",
+    "frequency": 183.1688019389483,
+    "link": "replace-words",
+    "id": 648
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Palindromic Substrings",
+    "frequency": 330.54929526751965,
+    "link": "palindromic-substrings",
+    "id": 647
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Maximum Length of Pair Chain",
+    "frequency": 140.51165481258525,
+    "link": "maximum-length-of-pair-chain",
+    "id": 646
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Set Mismatch",
+    "frequency": 128.02341463379352,
+    "link": "set-mismatch",
+    "id": 645
+  },
+  {
+    "paid_only": true,
+    "level": 3,
+    "title": "Maximum Average Subarray II",
+    "frequency": 165.01793484482235,
+    "link": "maximum-average-subarray-ii",
+    "id": 644
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Maximum Average Subarray I",
+    "frequency": 178.28553863178766,
+    "link": "maximum-average-subarray-i",
+    "id": 643
+  },
+  {
+    "paid_only": true,
+    "level": 3,
+    "title": "Design Search Autocomplete System",
+    "frequency": 150.08195029899255,
+    "link": "design-search-autocomplete-system",
+    "id": 642
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Solve the Equation",
+    "frequency": 57.29739354500873,
+    "link": "solve-the-equation",
+    "id": 640
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Decode Ways II",
+    "frequency": 70.2404475718034,
+    "link": "decode-ways-ii",
+    "id": 639
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Shopping Offers",
+    "frequency": 165.6287759163262,
+    "link": "shopping-offers",
+    "id": 638
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Average of Levels in Binary Tree",
+    "frequency": 205.15693908916737,
+    "link": "average-of-levels-in-binary-tree",
+    "id": 637
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Exclusive Time of Functions",
+    "frequency": 118.96998638170513,
+    "link": "exclusive-time-of-functions",
+    "id": 636
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "Design Log Storage System",
+    "frequency": 111.72545183091509,
+    "link": "design-log-storage-system",
+    "id": 635
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "Find the Derangement of An Array",
+    "frequency": 91.50903530979988,
+    "link": "find-the-derangement-of-an-array",
+    "id": 634
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Sum of Square Numbers",
+    "frequency": 184.94339705089132,
+    "link": "sum-of-square-numbers",
+    "id": 633
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Smallest Range",
+    "frequency": 268.84824445447185,
+    "link": "smallest-range",
+    "id": 632
+  },
+  {
+    "paid_only": true,
+    "level": 3,
+    "title": "Design Excel Sum Formula",
+    "frequency": 49.04671054680955,
+    "link": "design-excel-sum-formula",
+    "id": 631
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Course Schedule III",
+    "frequency": 94.09023443580256,
+    "link": "course-schedule-iii",
+    "id": 630
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "K Inverse Pairs Array",
+    "frequency": 136.01782953170814,
+    "link": "k-inverse-pairs-array",
+    "id": 629
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Maximum Product of Three Numbers",
+    "frequency": 316.3789049362602,
+    "link": "maximum-product-of-three-numbers",
+    "id": 628
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Swap Salary",
+    "frequency": 464.4497440301337,
+    "link": "swap-salary",
+    "id": 627
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Exchange Seats",
+    "frequency": 136.10856114377933,
+    "link": "exchange-seats",
+    "id": 626
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "Minimum Factorization",
+    "frequency": 47.538578868226836,
+    "link": "minimum-factorization",
+    "id": 625
+  },
+  {
+    "paid_only": true,
+    "level": 1,
+    "title": "Maximum Distance in Arrays",
+    "frequency": 124.77683992791995,
+    "link": "maximum-distance-in-arrays",
+    "id": 624
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Add One Row to Tree",
+    "frequency": 48.92969345373044,
+    "link": "add-one-row-to-tree",
+    "id": 623
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Task Scheduler",
+    "frequency": 321.232049770282,
+    "link": "task-scheduler",
+    "id": 621
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Not Boring Movies",
+    "frequency": 212.01970248030244,
+    "link": "not-boring-movies",
+    "id": 620
+  },
+  {
+    "paid_only": true,
+    "level": 1,
+    "title": "Biggest Single Number",
+    "frequency": 35.75172103420289,
+    "link": "biggest-single-number",
+    "id": 619
+  },
+  {
+    "paid_only": true,
+    "level": 3,
+    "title": "Students Report By Geography",
+    "frequency": 34.43546412455953,
+    "link": "students-report-by-geography",
+    "id": 618
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Merge Two Binary Trees",
+    "frequency": 529.8965508231532,
+    "link": "merge-two-binary-trees",
+    "id": 617
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "Add Bold Tag in String",
+    "frequency": 62.93367301994854,
+    "link": "add-bold-tag-in-string",
+    "id": 616
+  },
+  {
+    "paid_only": true,
+    "level": 3,
+    "title": "Average Salary: Departments VS Company",
+    "frequency": 0,
+    "link": "average-salary-departments-vs-company",
+    "id": 615
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "Second Degree Follower",
+    "frequency": 31.71229749835311,
+    "link": "second-degree-follower",
+    "id": 614
+  },
+  {
+    "paid_only": true,
+    "level": 1,
+    "title": "Shortest Distance in a Line",
+    "frequency": 82.67613139574914,
+    "link": "shortest-distance-in-a-line",
+    "id": 613
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "Shortest Distance in a Plane",
+    "frequency": 25.18516378313302,
+    "link": "shortest-distance-in-a-plane",
+    "id": 612
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Valid Triangle Number",
+    "frequency": 155.59676929275733,
+    "link": "valid-triangle-number",
+    "id": 611
+  },
+  {
+    "paid_only": true,
+    "level": 1,
+    "title": "Triangle Judgement",
+    "frequency": 52.77891266733019,
+    "link": "triangle-judgement",
+    "id": 610
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Find Duplicate File in System",
+    "frequency": 256.939398053915,
+    "link": "find-duplicate-file-in-system",
+    "id": 609
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "Tree Node",
+    "frequency": 58.34761702290916,
+    "link": "tree-node",
+    "id": 608
+  },
+  {
+    "paid_only": true,
+    "level": 1,
+    "title": "Sales Person",
+    "frequency": 43.703936062709715,
+    "link": "sales-person",
+    "id": 607
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Construct String from Binary Tree",
+    "frequency": 237.26497393110674,
+    "link": "construct-string-from-binary-tree",
+    "id": 606
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Can Place Flowers",
+    "frequency": 154.4633042352215,
+    "link": "can-place-flowers",
+    "id": 605
+  },
+  {
+    "paid_only": true,
+    "level": 1,
+    "title": "Design Compressed String Iterator",
+    "frequency": 10.601038142123457,
+    "link": "design-compressed-string-iterator",
+    "id": 604
+  },
+  {
+    "paid_only": true,
+    "level": 1,
+    "title": "Consecutive Available Seats",
+    "frequency": 11.014738140942896,
+    "link": "consecutive-available-seats",
+    "id": 603
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "Friend Requests II: Who Has the Most Friends",
+    "frequency": 2.6325138192867144,
+    "link": "friend-requests-ii-who-has-the-most-friends",
+    "id": 602
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Human Traffic of Stadium",
+    "frequency": 190.82701435514574,
+    "link": "human-traffic-of-stadium",
+    "id": 601
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Non-negative Integers without Consecutive Ones",
+    "frequency": 59.35124454149616,
+    "link": "non-negative-integers-without-consecutive-ones",
+    "id": 600
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Minimum Index Sum of Two Lists",
+    "frequency": 167.57123955505173,
+    "link": "minimum-index-sum-of-two-lists",
+    "id": 599
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Range Addition II",
+    "frequency": 161.95181886547127,
+    "link": "range-addition-ii",
+    "id": 598
+  },
+  {
+    "paid_only": true,
+    "level": 1,
+    "title": "Friend Requests I: Overall Acceptance Rate",
+    "frequency": 98.4691329034579,
+    "link": "friend-requests-i-overall-acceptance-rate",
+    "id": 597
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Classes More Than 5 Students",
+    "frequency": 193.440835424604,
+    "link": "classes-more-than-5-students",
+    "id": 596
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Big Countries",
+    "frequency": 595.7815867282405,
+    "link": "big-countries",
+    "id": 595
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Longest Harmonious Subsequence",
+    "frequency": 166.5980124576116,
+    "link": "longest-harmonious-subsequence",
+    "id": 594
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Valid Square",
+    "frequency": 65.66270333452039,
+    "link": "valid-square",
+    "id": 593
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Fraction Addition and Subtraction",
+    "frequency": 61.634702043057786,
+    "link": "fraction-addition-and-subtraction",
+    "id": 592
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Tag Validator",
+    "frequency": 13.723610842264549,
+    "link": "tag-validator",
+    "id": 591
+  },
+  {
+    "paid_only": true,
+    "level": 3,
+    "title": "Design In-Memory File System",
+    "frequency": 48.67678041775699,
+    "link": "design-in-memory-file-system",
+    "id": 588
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Erect the Fence",
+    "frequency": 57.178631694023636,
+    "link": "erect-the-fence",
+    "id": 587
+  },
+  {
+    "paid_only": true,
+    "level": 1,
+    "title": "Customer Placing the Largest Number of Orders",
+    "frequency": 45.02019297235307,
+    "link": "customer-placing-the-largest-number-of-orders",
+    "id": 586
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "Investments in 2016",
+    "frequency": 38.173810331429195,
+    "link": "investments-in-2016",
+    "id": 585
+  },
+  {
+    "paid_only": true,
+    "level": 1,
+    "title": "Find Customer Referee",
+    "frequency": 12.330995050586253,
+    "link": "find-customer-referee",
+    "id": 584
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Delete Operation for Two Strings",
+    "frequency": 152.14536510927203,
+    "link": "delete-operation-for-two-strings",
+    "id": 583
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "Kill Process",
+    "frequency": 140.755443151015,
+    "link": "kill-process",
+    "id": 582
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Shortest Unsorted Continuous Subarray",
+    "frequency": 138.5962660424623,
+    "link": "shortest-unsorted-continuous-subarray",
+    "id": 581
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "Count Student Number in Departments",
+    "frequency": 64.0391573035121,
+    "link": "count-student-number-in-departments",
+    "id": 580
+  },
+  {
+    "paid_only": true,
+    "level": 3,
+    "title": "Find Cumulative Salary of an Employee",
+    "frequency": 33.46015348227911,
+    "link": "find-cumulative-salary-of-an-employee",
+    "id": 579
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "Get Highest Answer Rate Question",
+    "frequency": 7.897541457860143,
+    "link": "get-highest-answer-rate-question",
+    "id": 578
+  },
+  {
+    "paid_only": true,
+    "level": 1,
+    "title": "Employee Bonus",
+    "frequency": 15.039867751907906,
+    "link": "employee-bonus",
+    "id": 577
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Out of Boundary Paths",
+    "frequency": 47.32195080216553,
+    "link": "out-of-boundary-paths",
+    "id": 576
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Distribute Candies",
+    "frequency": 276.0178086516988,
+    "link": "distribute-candies",
+    "id": 575
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "Winning Candidate",
+    "frequency": 16.356124661551263,
+    "link": "winning-candidate",
+    "id": 574
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "Squirrel Simulation",
+    "frequency": 9.2137983675035,
+    "link": "squirrel-simulation",
+    "id": 573
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Subtree of Another Tree",
+    "frequency": 145.4732653467124,
+    "link": "subtree-of-another-tree",
+    "id": 572
+  },
+  {
+    "paid_only": true,
+    "level": 3,
+    "title": "Find Median Given Frequency of Numbers",
+    "frequency": 109.23252332226505,
+    "link": "find-median-given-frequency-of-numbers",
+    "id": 571
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "Managers with at Least 5 Direct Reports",
+    "frequency": 20.304895390481335,
+    "link": "managers-with-at-least-5-direct-reports",
+    "id": 570
+  },
+  {
+    "paid_only": true,
+    "level": 3,
+    "title": "Median Employee Salary",
+    "frequency": 13.051731420698573,
+    "link": "median-employee-salary",
+    "id": 569
+  },
+  {
+    "paid_only": true,
+    "level": 3,
+    "title": "Maximum Vacation Days",
+    "frequency": 52.227680725749735,
+    "link": "maximum-vacation-days",
+    "id": 568
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Permutation in String",
+    "frequency": 99.24887071188769,
+    "link": "permutation-in-string",
+    "id": 567
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Reshape the Matrix",
+    "frequency": 267.5319875448285,
+    "link": "reshape-the-matrix",
+    "id": 566
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Find the Closest Palindrome",
+    "frequency": 174.74556861286365,
+    "link": "find-the-closest-palindrome",
+    "id": 564
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Binary Tree Tilt",
+    "frequency": 173.4293117032203,
+    "link": "binary-tree-tilt",
+    "id": 563
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "Longest Line of Consecutive One in Matrix",
+    "frequency": 73.47803442008288,
+    "link": "longest-line-of-consecutive-one-in-matrix",
+    "id": 562
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Array Partition I",
+    "frequency": 589.1406326205229,
+    "link": "array-partition-i",
+    "id": 561
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Subarray Sum Equals K",
+    "frequency": 257.5906895098048,
+    "link": "subarray-sum-equals-k",
+    "id": 560
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Reverse Words in a String III",
+    "frequency": 424.6689905856718,
+    "link": "reverse-words-in-a-string-iii",
+    "id": 557
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Next Greater Element III",
+    "frequency": 104.83431235224097,
+    "link": "next-greater-element-iii",
+    "id": 556
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "Split Concatenated Strings",
+    "frequency": 26.183755039298205,
+    "link": "split-concatenated-strings",
+    "id": 555
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Brick Wall",
+    "frequency": 85.05329503538948,
+    "link": "brick-wall",
+    "id": 554
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Optimal Division",
+    "frequency": 142.07170006065834,
+    "link": "optimal-division",
+    "id": 553
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Student Attendance Record II",
+    "frequency": 40.331519042011735,
+    "link": "student-attendance-record-ii",
+    "id": 552
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Student Attendance Record I",
+    "frequency": 97.91983901767512,
+    "link": "student-attendance-record-i",
+    "id": 551
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "Binary Tree Longest Consecutive Sequence II",
+    "frequency": 34.07905380337752,
+    "link": "binary-tree-longest-consecutive-sequence-ii",
+    "id": 549
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "Split Array with Equal Sum",
+    "frequency": 65.35541421315546,
+    "link": "split-array-with-equal-sum",
+    "id": 548
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Friend Circles",
+    "frequency": 272.7970151834019,
+    "link": "friend-circles",
+    "id": 547
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Remove Boxes",
+    "frequency": 202.92082147525107,
+    "link": "remove-boxes",
+    "id": 546
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "Boundary of Binary Tree",
+    "frequency": 92.7739775261592,
+    "link": "boundary-of-binary-tree",
+    "id": 545
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "Output Contest Matches",
+    "frequency": 86.36955194503284,
+    "link": "output-contest-matches",
+    "id": 544
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Diameter of Binary Tree",
+    "frequency": 282.5942740050311,
+    "link": "diameter-of-binary-tree",
+    "id": 543
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "01 Matrix",
+    "frequency": 219.62095097438834,
+    "link": "01-matrix",
+    "id": 542
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Reverse String II",
+    "frequency": 213.3359593899458,
+    "link": "reverse-string-ii",
+    "id": 541
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Single Element in a Sorted Array",
+    "frequency": 531.2128077327966,
+    "link": "single-element-in-a-sorted-array",
+    "id": 540
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Minimum Time Difference",
+    "frequency": 117.40355825400158,
+    "link": "minimum-time-difference",
+    "id": 539
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Convert BST to Greater Tree",
+    "frequency": 221.68282288639114,
+    "link": "convert-bst-to-greater-tree",
+    "id": 538
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Complex Number Multiplication",
+    "frequency": 151.3982072086359,
+    "link": "complex-number-multiplication",
+    "id": 537
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "Construct Binary Tree from String",
+    "frequency": 43.10188263539882,
+    "link": "construct-binary-tree-from-string",
+    "id": 536
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Encode and Decode TinyURL",
+    "frequency": 590.5165590896671,
+    "link": "encode-and-decode-tinyurl",
+    "id": 535
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Design TinyURL",
+    "frequency": 634.9017561134009,
+    "link": "design-tinyurl",
+    "id": 534
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "Lonely Pixel II",
+    "frequency": 36.85755342178584,
+    "link": "lonely-pixel-ii",
+    "id": 533
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "K-diff Pairs in an Array",
+    "frequency": 117.10397560268993,
+    "link": "k-diff-pairs-in-an-array",
+    "id": 532
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "Lonely Pixel I",
+    "frequency": 9.2847812324801,
+    "link": "lonely-pixel-i",
+    "id": 531
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Minimum Absolute Difference in BST",
+    "frequency": 194.75709233424735,
+    "link": "minimum-absolute-difference-in-bst",
+    "id": 530
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Minesweeper",
+    "frequency": 152.41412454334292,
+    "link": "minesweeper",
+    "id": 529
+  },
+  {
+    "paid_only": true,
+    "level": 3,
+    "title": "Word Abbreviation",
+    "frequency": 1.3162569096433572,
+    "link": "word-abbreviation",
+    "id": 527
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Beautiful Arrangement",
+    "frequency": 229.40160621479566,
+    "link": "beautiful-arrangement",
+    "id": 526
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Contiguous Array",
+    "frequency": 130.62098702096355,
+    "link": "contiguous-array",
+    "id": 525
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Longest Word in Dictionary through Deleting",
+    "frequency": 114.47146178340321,
+    "link": "longest-word-in-dictionary-through-deleting",
+    "id": 524
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Continuous Subarray Sum",
+    "frequency": 91.28822274431477,
+    "link": "continuous-subarray-sum",
+    "id": 523
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Longest Uncommon Subsequence II",
+    "frequency": 94.78665962053819,
+    "link": "longest-uncommon-subsequence-ii",
+    "id": 522
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Longest Uncommon Subsequence I ",
+    "frequency": 203.36797846479024,
+    "link": "longest-uncommon-subsequence-i",
+    "id": 521
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Detect Capital",
+    "frequency": 155.97834274009594,
+    "link": "detect-capital",
+    "id": 520
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Coin Change 2",
+    "frequency": 453.0169733076971,
+    "link": "coin-change-2",
+    "id": 518
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Super Washing Machines",
+    "frequency": 123.09424820268188,
+    "link": "super-washing-machines",
+    "id": 517
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Longest Palindromic Subsequence",
+    "frequency": 249.59585244137514,
+    "link": "longest-palindromic-subsequence",
+    "id": 516
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Find Largest Value in Each Tree Row",
+    "frequency": 126.09309683756331,
+    "link": "find-largest-value-in-each-tree-row",
+    "id": 515
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Freedom Trail",
+    "frequency": 66.97896024416374,
+    "link": "freedom-trail",
+    "id": 514
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Find Bottom Left Tree Value",
+    "frequency": 181.16275984223827,
+    "link": "find-bottom-left-tree-value",
+    "id": 513
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Most Frequent Subtree Sum",
+    "frequency": 112.91601146310276,
+    "link": "most-frequent-subtree-sum",
+    "id": 508
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Perfect Number",
+    "frequency": 148.7656933893492,
+    "link": "perfect-number",
+    "id": 507
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Relative Ranks",
+    "frequency": 283.91053091467444,
+    "link": "relative-ranks",
+    "id": 506
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "The Maze II",
+    "frequency": 67.00542841860508,
+    "link": "the-maze-ii",
+    "id": 505
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Base 7",
+    "frequency": 146.78952225635575,
+    "link": "base-7",
+    "id": 504
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Next Greater Element II",
+    "frequency": 176.9174945095685,
+    "link": "next-greater-element-ii",
+    "id": 503
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "IPO",
+    "frequency": 71.92886870998748,
+    "link": "ipo",
+    "id": 502
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Find Mode in Binary Search Tree",
+    "frequency": 184.69375311103138,
+    "link": "find-mode-in-binary-search-tree",
+    "id": 501
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Keyboard Row",
+    "frequency": 439.67175506460154,
+    "link": "keyboard-row",
+    "id": 500
+  },
+  {
+    "paid_only": true,
+    "level": 3,
+    "title": "The Maze III",
+    "frequency": 28.81626885858492,
+    "link": "the-maze-iii",
+    "id": 499
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Diagonal Traverse",
+    "frequency": 281.1745668692277,
+    "link": "diagonal-traverse",
+    "id": 498
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Next Greater Element I",
+    "frequency": 285.6729970893072,
+    "link": "next-greater-element-i",
+    "id": 496
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Teemo Attacking",
+    "frequency": 137.42481805342268,
+    "link": "teemo-attacking",
+    "id": 495
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Target Sum",
+    "frequency": 179.36191274766642,
+    "link": "target-sum",
+    "id": 494
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Reverse Pairs",
+    "frequency": 89.97196583467141,
+    "link": "reverse-pairs",
+    "id": 493
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Construct the Rectangle",
+    "frequency": 218.30469406474498,
+    "link": "construct-the-rectangle",
+    "id": 492
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Increasing Subsequences",
+    "frequency": 76.43592565089367,
+    "link": "increasing-subsequences",
+    "id": 491
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "The Maze",
+    "frequency": 62.95445637312949,
+    "link": "the-maze",
+    "id": 490
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Zuma Game",
+    "frequency": 54.54611787473692,
+    "link": "zuma-game",
+    "id": 488
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "Max Consecutive Ones II",
+    "frequency": 33.02855440799647,
+    "link": "max-consecutive-ones-ii",
+    "id": 487
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Predict the Winner",
+    "frequency": 197.16912505319712,
+    "link": "predict-the-winner",
+    "id": 486
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Max Consecutive Ones",
+    "frequency": 255.62314114427164,
+    "link": "max-consecutive-ones",
+    "id": 485
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "Find Permutation",
+    "frequency": 41.785625725755466,
+    "link": "find-permutation",
+    "id": 484
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Smallest Good Base",
+    "frequency": 80.2786021359826,
+    "link": "smallest-good-base",
+    "id": 483
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "License Key Formatting",
+    "frequency": 261.44608053990106,
+    "link": "license-key-formatting",
+    "id": 482
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Magical String",
+    "frequency": 276.998616301666,
+    "link": "magical-string",
+    "id": 481
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Sliding Window Median",
+    "frequency": 72.16177751043952,
+    "link": "sliding-window-median",
+    "id": 480
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Largest Palindrome Product",
+    "frequency": 538.4899462303675,
+    "link": "largest-palindrome-product",
+    "id": 479
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Total Hamming Distance",
+    "frequency": 172.938757548366,
+    "link": "total-hamming-distance",
+    "id": 477
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Number Complement",
+    "frequency": 420.8976781297641,
+    "link": "number-complement",
+    "id": 476
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Heaters",
+    "frequency": 186.25965396053468,
+    "link": "heaters",
+    "id": 475
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Ones and Zeroes",
+    "frequency": 204.65237105104998,
+    "link": "ones-and-zeroes",
+    "id": 474
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Matchsticks to Square",
+    "frequency": 60.69052726184026,
+    "link": "matchsticks-to-square",
+    "id": 473
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Concatenated Words",
+    "frequency": 71.55670448144676,
+    "link": "concatenated-words",
+    "id": 472
+  },
+  {
+    "paid_only": true,
+    "level": 3,
+    "title": "Encode String with Shortest Length",
+    "frequency": 41.64777595165509,
+    "link": "encode-string-with-shortest-length",
+    "id": 471
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "Convex Polygon",
+    "frequency": 53.43762953543376,
+    "link": "convex-polygon",
+    "id": 469
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Validate IP Address",
+    "frequency": 111.64178894971596,
+    "link": "validate-ip-address",
+    "id": 468
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Unique Substrings in Wraparound String",
+    "frequency": 106.31407614561337,
+    "link": "unique-substrings-in-wraparound-string",
+    "id": 467
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Count The Repetitions",
+    "frequency": 175.6862052275455,
+    "link": "count-the-repetitions",
+    "id": 466
+  },
+  {
+    "paid_only": true,
+    "level": 3,
+    "title": "Optimal Account Balancing",
+    "frequency": 95.2873251983884,
+    "link": "optimal-account-balancing",
+    "id": 465
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Can I Win",
+    "frequency": 153.14704732557814,
+    "link": "can-i-win",
+    "id": 464
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Island Perimeter",
+    "frequency": 523.0139013458347,
+    "link": "island-perimeter",
+    "id": 463
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Minimum Moves to Equal Array Elements II",
+    "frequency": 134.35609686070686,
+    "link": "minimum-moves-to-equal-array-elements-ii",
+    "id": 462
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Hamming Distance",
+    "frequency": 621.7391870169673,
+    "link": "hamming-distance",
+    "id": 461
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "LFU Cache",
+    "frequency": 306.6079501108599,
+    "link": "lfu-cache",
+    "id": 460
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Repeated Substring Pattern",
+    "frequency": 187.80760032459514,
+    "link": "repeated-substring-pattern",
+    "id": 459
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Poor Pigs",
+    "frequency": 624.371700836254,
+    "link": "poor-pigs",
+    "id": 458
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Circular Array Loop",
+    "frequency": 480.62251870735616,
+    "link": "circular-array-loop",
+    "id": 457
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "132 Pattern",
+    "frequency": 170.7287626240616,
+    "link": "132-pattern",
+    "id": 456
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Assign Cookies",
+    "frequency": 230.80323559178578,
+    "link": "assign-cookies",
+    "id": 455
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "4Sum II",
+    "frequency": 223.58295867570212,
+    "link": "4sum-ii",
+    "id": 454
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Minimum Moves to Equal Array Elements",
+    "frequency": 375.15600975514843,
+    "link": "minimum-moves-to-equal-array-elements",
+    "id": 453
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Minimum Number of Arrows to Burst Balloons",
+    "frequency": 153.08970932522553,
+    "link": "minimum-number-of-arrows-to-burst-balloons",
+    "id": 452
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Sort Characters By Frequency",
+    "frequency": 285.2267878243178,
+    "link": "sort-characters-by-frequency",
+    "id": 451
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Delete Node in a BST",
+    "frequency": 222.9990797960345,
+    "link": "delete-node-in-a-bst",
+    "id": 450
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Serialize and Deserialize BST",
+    "frequency": 239.37589800337724,
+    "link": "serialize-and-deserialize-bst",
+    "id": 449
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Find All Numbers Disappeared in an Array",
+    "frequency": 457.0073745440506,
+    "link": "find-all-numbers-disappeared-in-an-array",
+    "id": 448
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Number of Boomerangs",
+    "frequency": 243.684227712407,
+    "link": "number-of-boomerangs",
+    "id": 447
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Arithmetic Slices II - Subsequence",
+    "frequency": 100.56512762153105,
+    "link": "arithmetic-slices-ii-subsequence",
+    "id": 446
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Add Two Numbers II",
+    "frequency": 396.5521298303476,
+    "link": "add-two-numbers-ii",
+    "id": 445
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "Sequence Reconstruction",
+    "frequency": 20.59155044735357,
+    "link": "sequence-reconstruction",
+    "id": 444
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Find All Duplicates in an Array",
+    "frequency": 380.03695138913923,
+    "link": "find-all-duplicates-in-an-array",
+    "id": 442
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Arranging Coins",
+    "frequency": 172.45724358580995,
+    "link": "arranging-coins",
+    "id": 441
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "K-th Smallest in Lexicographical Order",
+    "frequency": 245.04151551979618,
+    "link": "k-th-smallest-in-lexicographical-order",
+    "id": 440
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "Ternary Expression Parser",
+    "frequency": 113.92125222468374,
+    "link": "ternary-expression-parser",
+    "id": 439
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Find All Anagrams in a String",
+    "frequency": 242.5020173573617,
+    "link": "find-all-anagrams-in-a-string",
+    "id": 438
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Path Sum III",
+    "frequency": 277.9722117785108,
+    "link": "path-sum-iii",
+    "id": 437
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Find Right Interval",
+    "frequency": 68.92419066216004,
+    "link": "find-right-interval",
+    "id": 436
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Non-overlapping Intervals",
+    "frequency": 144.70421387994506,
+    "link": "non-overlapping-intervals",
+    "id": 435
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Number of Segments in a String",
+    "frequency": 134.74232712731836,
+    "link": "number-of-segments-in-a-string",
+    "id": 434
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Minimum Genetic Mutation",
+    "frequency": 495.76577543362856,
+    "link": "minimum-genetic-mutation",
+    "id": 433
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "All O`one Data Structure",
+    "frequency": 250.46851688984344,
+    "link": "all-oone-data-structure",
+    "id": 432
+  },
+  {
+    "paid_only": true,
+    "level": 3,
+    "title": "Word Squares",
+    "frequency": 124.41050511232524,
+    "link": "word-squares",
+    "id": 425
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Longest Repeating Character Replacement",
+    "frequency": 159.31930504618455,
+    "link": "longest-repeating-character-replacement",
+    "id": 424
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Reconstruct Original Digits from English",
+    "frequency": 158.2776290232055,
+    "link": "reconstruct-original-digits-from-english",
+    "id": 423
+  },
+  {
+    "paid_only": true,
+    "level": 1,
+    "title": "Valid Word Square",
+    "frequency": 31.448782677871634,
+    "link": "valid-word-square",
+    "id": 422
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Maximum XOR of Two Numbers in an Array",
+    "frequency": 417.42199162561843,
+    "link": "maximum-xor-of-two-numbers-in-an-array",
+    "id": 421
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Strong Password Checker",
+    "frequency": 502.3235065434429,
+    "link": "strong-password-checker",
+    "id": 420
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Battleships in a Board",
+    "frequency": 521.3750234061757,
+    "link": "battleships-in-a-board",
+    "id": 419
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "Sentence Screen Fitting",
+    "frequency": 157.81010814121336,
+    "link": "sentence-screen-fitting",
+    "id": 418
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Pacific Atlantic Water Flow",
+    "frequency": 220.9372078840317,
+    "link": "pacific-atlantic-water-flow",
+    "id": 417
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Partition Equal Subset Sum",
+    "frequency": 190.87229239266028,
+    "link": "partition-equal-subset-sum",
+    "id": 416
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Add Strings",
+    "frequency": 279.85830995958435,
+    "link": "add-strings",
+    "id": 415
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Third Maximum Number",
+    "frequency": 204.41119887921755,
+    "link": "third-maximum-number",
+    "id": 414
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Arithmetic Slices",
+    "frequency": 274.23463155822645,
+    "link": "arithmetic-slices",
+    "id": 413
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Fizz Buzz",
+    "frequency": 585.6686905131421,
+    "link": "fizz-buzz",
+    "id": 412
+  },
+  {
+    "paid_only": true,
+    "level": 3,
+    "title": "Minimum Unique Word Abbreviation",
+    "frequency": 103.3847242789607,
+    "link": "minimum-unique-word-abbreviation",
+    "id": 411
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Split Array Largest Sum",
+    "frequency": 232.11949250142914,
+    "link": "split-array-largest-sum",
+    "id": 410
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Longest Palindrome",
+    "frequency": 191.6741924741394,
+    "link": "longest-palindrome",
+    "id": 409
+  },
+  {
+    "paid_only": true,
+    "level": 1,
+    "title": "Valid Word Abbreviation",
+    "frequency": 18.988638480837977,
+    "link": "valid-word-abbreviation",
+    "id": 408
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Trapping Rain Water II",
+    "frequency": 181.52715766934088,
+    "link": "trapping-rain-water-ii",
+    "id": 407
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Queue Reconstruction by Height",
+    "frequency": 426.46697164822814,
+    "link": "queue-reconstruction-by-height",
+    "id": 406
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Convert a Number to Hexadecimal",
+    "frequency": 143.3879569703017,
+    "link": "convert-a-number-to-hexadecimal",
+    "id": 405
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Sum of Left Leaves",
+    "frequency": 235.853276432415,
+    "link": "sum-of-left-leaves",
+    "id": 404
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Frog Jump",
+    "frequency": 232.7218214314567,
+    "link": "frog-jump",
+    "id": 403
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Remove K Digits",
+    "frequency": 96.60358210803176,
+    "link": "remove-k-digits",
+    "id": 402
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Binary Watch",
+    "frequency": 301.3958008146573,
+    "link": "binary-watch",
+    "id": 401
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Nth Digit",
+    "frequency": 226.98545064840624,
+    "link": "nth-digit",
+    "id": 400
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Evaluate Division",
+    "frequency": 248.2795955317318,
+    "link": "evaluate-division",
+    "id": 399
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Random Pick Index",
+    "frequency": 131.29064499262827,
+    "link": "random-pick-index",
+    "id": 398
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Integer Replacement",
+    "frequency": 126.70715772415016,
+    "link": "integer-replacement",
+    "id": 397
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Rotate Function",
+    "frequency": 272.9183746485831,
+    "link": "rotate-function",
+    "id": 396
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Longest Substring with At Least K Repeating Characters",
+    "frequency": 372.62997824741916,
+    "link": "longest-substring-with-at-least-k-repeating-characters",
+    "id": 395
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Decode String",
+    "frequency": 311.0588349726423,
+    "link": "decode-string",
+    "id": 394
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "UTF-8 Validation",
+    "frequency": 208.91203822400396,
+    "link": "utf-8-validation",
+    "id": 393
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Is Subsequence",
+    "frequency": 224.89921558534547,
+    "link": "is-subsequence",
+    "id": 392
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Perfect Rectangle",
+    "frequency": 276.21571696816414,
+    "link": "perfect-rectangle",
+    "id": 391
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Elimination Game",
+    "frequency": 399.1632333620025,
+    "link": "elimination-game",
+    "id": 390
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Find the Difference",
+    "frequency": 354.53666165268584,
+    "link": "find-the-difference",
+    "id": 389
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Longest Absolute File Path",
+    "frequency": 584.955140147121,
+    "link": "longest-absolute-file-path",
+    "id": 388
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "First Unique Character in a String",
+    "frequency": 489.1844908854118,
+    "link": "first-unique-character-in-a-string",
+    "id": 387
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Lexicographical Numbers",
+    "frequency": 419.82712442765745,
+    "link": "lexicographical-numbers",
+    "id": 386
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Mini Parser",
+    "frequency": 210.39614804074677,
+    "link": "mini-parser",
+    "id": 385
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Shuffle an Array",
+    "frequency": 518.742509586889,
+    "link": "shuffle-an-array",
+    "id": 384
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Ransom Note",
+    "frequency": 477.7892407918296,
+    "link": "ransom-note",
+    "id": 383
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Linked List Random Node",
+    "frequency": 262.75646282187967,
+    "link": "linked-list-random-node",
+    "id": 382
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Insert Delete GetRandom O(1) - Duplicates allowed",
+    "frequency": 151.4524252451582,
+    "link": "insert-delete-getrandom-o1-duplicates-allowed",
+    "id": 381
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Insert Delete GetRandom O(1)",
+    "frequency": 318.89158969832084,
+    "link": "insert-delete-getrandom-o1",
+    "id": 380
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "Design Phone Directory",
+    "frequency": 74.9807496633392,
+    "link": "design-phone-directory",
+    "id": 379
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Kth Smallest Element in a Sorted Matrix",
+    "frequency": 309.99490575267595,
+    "link": "kth-smallest-element-in-a-sorted-matrix",
+    "id": 378
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Combination Sum IV",
+    "frequency": 266.3386539493411,
+    "link": "combination-sum-iv",
+    "id": 377
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Wiggle Subsequence",
+    "frequency": 233.22076261312827,
+    "link": "wiggle-subsequence",
+    "id": 376
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Guess Number Higher or Lower II",
+    "frequency": 293.47549066425546,
+    "link": "guess-number-higher-or-lower-ii",
+    "id": 375
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Guess Number Higher or Lower",
+    "frequency": 406.469954262532,
+    "link": "guess-number-higher-or-lower",
+    "id": 374
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Find K Pairs with Smallest Sums",
+    "frequency": 184.48505884859165,
+    "link": "find-k-pairs-with-smallest-sums",
+    "id": 373
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Super Pow",
+    "frequency": 306.7710656168218,
+    "link": "super-pow",
+    "id": 372
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Sum of Two Integers",
+    "frequency": 619.1066731976806,
+    "link": "sum-of-two-integers",
+    "id": 371
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "Range Addition",
+    "frequency": 81.35987448610578,
+    "link": "range-addition",
+    "id": 370
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "Plus One Linked List",
+    "frequency": 67.60793375251669,
+    "link": "plus-one-linked-list",
+    "id": 369
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Largest Divisible Subset",
+    "frequency": 259.13746904521366,
+    "link": "largest-divisible-subset",
+    "id": 368
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Valid Perfect Square",
+    "frequency": 215.9684732092325,
+    "link": "valid-perfect-square",
+    "id": 367
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "Find Leaves of Binary Tree",
+    "frequency": 129.24174576867293,
+    "link": "find-leaves-of-binary-tree",
+    "id": 366
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Water and Jug Problem",
+    "frequency": 130.55800267831629,
+    "link": "water-and-jug-problem",
+    "id": 365
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "Nested List Weight Sum II",
+    "frequency": 182.11260854770998,
+    "link": "nested-list-weight-sum-ii",
+    "id": 364
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Max Sum of Rectangle No Larger Than K",
+    "frequency": 270.1645013641152,
+    "link": "max-sum-of-rectangle-no-larger-than-k",
+    "id": 363
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "Design Hit Counter",
+    "frequency": 260.453725954857,
+    "link": "design-hit-counter",
+    "id": 362
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "Bomb Enemy",
+    "frequency": 181.1932565859457,
+    "link": "bomb-enemy",
+    "id": 361
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "Sort Transformed Array",
+    "frequency": 118.71981516364494,
+    "link": "sort-transformed-array",
+    "id": 360
+  },
+  {
+    "paid_only": true,
+    "level": 1,
+    "title": "Logger Rate Limiter",
+    "frequency": 120.46173438339517,
+    "link": "logger-rate-limiter",
+    "id": 359
+  },
+  {
+    "paid_only": true,
+    "level": 3,
+    "title": "Rearrange String k Distance Apart",
+    "frequency": 98.22865657885663,
+    "link": "rearrange-string-k-distance-apart",
+    "id": 358
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Count Numbers with Unique Digits",
+    "frequency": 334.2577727496883,
+    "link": "count-numbers-with-unique-digits",
+    "id": 357
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "Line Reflection",
+    "frequency": 27.500011948941562,
+    "link": "line-reflection",
+    "id": 356
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Design Twitter",
+    "frequency": 170.39749237444877,
+    "link": "design-twitter",
+    "id": 355
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Russian Doll Envelopes",
+    "frequency": 288.8614564225923,
+    "link": "russian-doll-envelopes",
+    "id": 354
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "Design Snake Game",
+    "frequency": 46.005693892522174,
+    "link": "design-snake-game",
+    "id": 353
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Data Stream as Disjoint Intervals",
+    "frequency": 211.4970320931401,
+    "link": "data-stream-as-disjoint-intervals",
+    "id": 352
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "Android Unlock Patterns",
+    "frequency": 164.7447756694285,
+    "link": "android-unlock-patterns",
+    "id": 351
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Intersection of Two Arrays II",
+    "frequency": 412.3972216810948,
+    "link": "intersection-of-two-arrays-ii",
+    "id": 350
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Intersection of Two Arrays",
+    "frequency": 473.33164973823233,
+    "link": "intersection-of-two-arrays",
+    "id": 349
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "Design Tic-Tac-Toe",
+    "frequency": 246.96333862208843,
+    "link": "design-tic-tac-toe",
+    "id": 348
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Top K Frequent Elements",
+    "frequency": 472.25892268846536,
+    "link": "top-k-frequent-elements",
+    "id": 347
+  },
+  {
+    "paid_only": true,
+    "level": 1,
+    "title": "Moving Average from Data Stream",
+    "frequency": 304.2344305155785,
+    "link": "moving-average-from-data-stream",
+    "id": 346
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Reverse Vowels of a String",
+    "frequency": 460.5009733012036,
+    "link": "reverse-vowels-of-a-string",
+    "id": 345
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Reverse String",
+    "frequency": 629.6367284748275,
+    "link": "reverse-string",
+    "id": 344
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Integer Break",
+    "frequency": 354.73570835093375,
+    "link": "integer-break",
+    "id": 343
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Power of Four",
+    "frequency": 308.08732252646513,
+    "link": "power-of-four",
+    "id": 342
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Flatten Nested List Iterator",
+    "frequency": 381.3532082987826,
+    "link": "flatten-nested-list-iterator",
+    "id": 341
+  },
+  {
+    "paid_only": true,
+    "level": 3,
+    "title": "Longest Substring with At Most K Distinct Characters",
+    "frequency": 305.00742011879964,
+    "link": "longest-substring-with-at-most-k-distinct-characters",
+    "id": 340
+  },
+  {
+    "paid_only": true,
+    "level": 1,
+    "title": "Nested List Weight Sum",
+    "frequency": 327.45707771409155,
+    "link": "nested-list-weight-sum",
+    "id": 339
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Counting Bits",
+    "frequency": 554.8339593528515,
+    "link": "counting-bits",
+    "id": 338
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "House Robber III",
+    "frequency": 333.0950855483721,
+    "link": "house-robber-iii",
+    "id": 337
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Palindrome Pairs",
+    "frequency": 468.40782062750026,
+    "link": "palindrome-pairs",
+    "id": 336
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Self Crossing",
+    "frequency": 504.7472792703259,
+    "link": "self-crossing",
+    "id": 335
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Increasing Triplet Subsequence",
+    "frequency": 363.39547851831236,
+    "link": "increasing-triplet-subsequence",
+    "id": 334
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "Largest BST Subtree",
+    "frequency": 49.59516690646302,
+    "link": "largest-bst-subtree",
+    "id": 333
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Reconstruct Itinerary",
+    "frequency": 291.9759101370584,
+    "link": "reconstruct-itinerary",
+    "id": 332
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Verify Preorder Serialization of a Binary Tree",
+    "frequency": 168.8874964646951,
+    "link": "verify-preorder-serialization-of-a-binary-tree",
+    "id": 331
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Patching Array",
+    "frequency": 304.8213745005192,
+    "link": "patching-array",
+    "id": 330
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Longest Increasing Path in a Matrix",
+    "frequency": 305.29169320121656,
+    "link": "longest-increasing-path-in-a-matrix",
+    "id": 329
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Odd Even Linked List",
+    "frequency": 560.0989869914249,
+    "link": "odd-even-linked-list",
+    "id": 328
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Count of Range Sum",
+    "frequency": 341.1384128189322,
+    "link": "count-of-range-sum",
+    "id": 327
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Power of Three",
+    "frequency": 524.3831521488286,
+    "link": "power-of-three",
+    "id": 326
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "Maximum Size Subarray Sum Equals k",
+    "frequency": 286.29384625577626,
+    "link": "maximum-size-subarray-sum-equals-k",
+    "id": 325
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Wiggle Sort II",
+    "frequency": 348.43446703428543,
+    "link": "wiggle-sort-ii",
+    "id": 324
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "Number of Connected Components in an Undirected Graph",
+    "frequency": 78.96234522633924,
+    "link": "number-of-connected-components-in-an-undirected-graph",
+    "id": 323
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Coin Change",
+    "frequency": 375.085759768924,
+    "link": "coin-change",
+    "id": 322
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Create Maximum Number",
+    "frequency": 275.20492271331256,
+    "link": "create-maximum-number",
+    "id": 321
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "Generalized Abbreviation",
+    "frequency": 241.6949026080418,
+    "link": "generalized-abbreviation",
+    "id": 320
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Bulb Switcher",
+    "frequency": 537.1736893207242,
+    "link": "bulb-switcher",
+    "id": 319
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Maximum Product of Word Lengths",
+    "frequency": 361.49056953695293,
+    "link": "maximum-product-of-word-lengths",
+    "id": 318
+  },
+  {
+    "paid_only": true,
+    "level": 3,
+    "title": "Shortest Distance from All Buildings",
+    "frequency": 171.1409866761666,
+    "link": "shortest-distance-from-all-buildings",
+    "id": 317
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Remove Duplicate Letters",
+    "frequency": 465.76600093977703,
+    "link": "remove-duplicate-letters",
+    "id": 316
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Count of Smaller Numbers After Self",
+    "frequency": 391.8027601479335,
+    "link": "count-of-smaller-numbers-after-self",
+    "id": 315
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "Binary Tree Vertical Order Traversal",
+    "frequency": 177.7487178535425,
+    "link": "binary-tree-vertical-order-traversal",
+    "id": 314
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Super Ugly Number",
+    "frequency": 266.2351956230777,
+    "link": "super-ugly-number",
+    "id": 313
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Burst Balloons",
+    "frequency": 447.4503864722362,
+    "link": "burst-balloons",
+    "id": 312
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "Sparse Matrix Multiplication",
+    "frequency": 324.2232923080182,
+    "link": "sparse-matrix-multiplication",
+    "id": 311
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Minimum Height Trees",
+    "frequency": 163.7757205006989,
+    "link": "minimum-height-trees",
+    "id": 310
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Best Time to Buy and Sell Stock with Cooldown",
+    "frequency": 371.3137213377758,
+    "link": "best-time-to-buy-and-sell-stock-with-cooldown",
+    "id": 309
+  },
+  {
+    "paid_only": true,
+    "level": 3,
+    "title": "Range Sum Query 2D - Mutable",
+    "frequency": 254.6728070833288,
+    "link": "range-sum-query-2d-mutable",
+    "id": 308
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Range Sum Query - Mutable",
+    "frequency": 206.47319599881072,
+    "link": "range-sum-query-mutable",
+    "id": 307
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Additive Number",
+    "frequency": 442.18535883366275,
+    "link": "additive-number",
+    "id": 306
+  },
+  {
+    "paid_only": true,
+    "level": 3,
+    "title": "Number of Islands II",
+    "frequency": 187.57591087017803,
+    "link": "number-of-islands-ii",
+    "id": 305
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Range Sum Query 2D - Immutable",
+    "frequency": 298.1531723223621,
+    "link": "range-sum-query-2d-immutable",
+    "id": 304
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Range Sum Query - Immutable",
+    "frequency": 434.2833749702326,
+    "link": "range-sum-query-immutable",
+    "id": 303
+  },
+  {
+    "paid_only": true,
+    "level": 3,
+    "title": "Smallest Rectangle Enclosing Black Pixels",
+    "frequency": 88.93600656659905,
+    "link": "smallest-rectangle-enclosing-black-pixels",
+    "id": 302
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Remove Invalid Parentheses",
+    "frequency": 401.7577581070761,
+    "link": "remove-invalid-parentheses",
+    "id": 301
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Longest Increasing Subsequence",
+    "frequency": 326.1408208044482,
+    "link": "longest-increasing-subsequence",
+    "id": 300
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Bulls and Cows",
+    "frequency": 389.1702463286468,
+    "link": "bulls-and-cows",
+    "id": 299
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "Binary Tree Longest Consecutive Sequence",
+    "frequency": 226.21547249498883,
+    "link": "binary-tree-longest-consecutive-sequence",
+    "id": 298
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Serialize and Deserialize Binary Tree",
+    "frequency": 416.6265252945803,
+    "link": "serialize-and-deserialize-binary-tree",
+    "id": 297
+  },
+  {
+    "paid_only": true,
+    "level": 3,
+    "title": "Best Meeting Point",
+    "frequency": 361.79871304149555,
+    "link": "best-meeting-point",
+    "id": 296
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Find Median from Data Stream",
+    "frequency": 367.3271312090406,
+    "link": "find-median-from-data-stream",
+    "id": 295
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "Flip Game II",
+    "frequency": 107.63033305525673,
+    "link": "flip-game-ii",
+    "id": 294
+  },
+  {
+    "paid_only": true,
+    "level": 1,
+    "title": "Flip Game",
+    "frequency": 130.9708634792377,
+    "link": "flip-game",
+    "id": 293
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Nim Game",
+    "frequency": 630.9529853844708,
+    "link": "nim-game",
+    "id": 292
+  },
+  {
+    "paid_only": true,
+    "level": 3,
+    "title": "Word Pattern II",
+    "frequency": 246.35777242943954,
+    "link": "word-pattern-ii",
+    "id": 291
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Word Pattern",
+    "frequency": 384.83769290069137,
+    "link": "word-pattern",
+    "id": 290
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Game of Life",
+    "frequency": 461.81723021084696,
+    "link": "game-of-life",
+    "id": 289
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "Unique Word Abbreviation",
+    "frequency": 139.77549472014502,
+    "link": "unique-word-abbreviation",
+    "id": 288
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Find the Duplicate Number",
+    "frequency": 483.0333302271561,
+    "link": "find-the-duplicate-number",
+    "id": 287
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "Walls and Gates",
+    "frequency": 217.28473011887587,
+    "link": "walls-and-gates",
+    "id": 286
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "Inorder Successor in BST",
+    "frequency": 258.90694641944816,
+    "link": "inorder-successor-in-bst",
+    "id": 285
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Peeking Iterator",
+    "frequency": 301.60191669629177,
+    "link": "peeking-iterator",
+    "id": 284
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Move Zeroes",
+    "frequency": 593.1490729089538,
+    "link": "move-zeroes",
+    "id": 283
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Expression Add Operators",
+    "frequency": 377.9960455116574,
+    "link": "expression-add-operators",
+    "id": 282
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "Zigzag Iterator",
+    "frequency": 300.07954390501396,
+    "link": "zigzag-iterator",
+    "id": 281
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "Wiggle Sort",
+    "frequency": 393.5795634552125,
+    "link": "wiggle-sort",
+    "id": 280
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Perfect Squares",
+    "frequency": 458.32363145369396,
+    "link": "perfect-squares",
+    "id": 279
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "First Bad Version",
+    "frequency": 403.3299671674237,
+    "link": "first-bad-version",
+    "id": 278
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "Find the Celebrity",
+    "frequency": 319.91579286063865,
+    "link": "find-the-celebrity",
+    "id": 277
+  },
+  {
+    "paid_only": true,
+    "level": 1,
+    "title": "Paint Fence",
+    "frequency": 227.09514977461237,
+    "link": "paint-fence",
+    "id": 276
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "H-Index II",
+    "frequency": 207.78945290845408,
+    "link": "h-index-ii",
+    "id": 275
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "H-Index",
+    "frequency": 288.9603812513495,
+    "link": "h-index",
+    "id": 274
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Integer to English Words",
+    "frequency": 490.50074779505513,
+    "link": "integer-to-english-words",
+    "id": 273
+  },
+  {
+    "paid_only": true,
+    "level": 3,
+    "title": "Closest Binary Search Tree Value II",
+    "frequency": 157.53140827482488,
+    "link": "closest-binary-search-tree-value-ii",
+    "id": 272
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "Encode and Decode Strings",
+    "frequency": 164.2059940336629,
+    "link": "encode-and-decode-strings",
+    "id": 271
+  },
+  {
+    "paid_only": true,
+    "level": 1,
+    "title": "Closest Binary Search Tree Value",
+    "frequency": 169.08123546480542,
+    "link": "closest-binary-search-tree-value",
+    "id": 270
+  },
+  {
+    "paid_only": true,
+    "level": 3,
+    "title": "Alien Dictionary",
+    "frequency": 322.90703539837483,
+    "link": "alien-dictionary",
+    "id": 269
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Missing Number",
+    "frequency": 491.8170047046985,
+    "link": "missing-number",
+    "id": 268
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "Palindrome Permutation II",
+    "frequency": 132.60690190227163,
+    "link": "palindrome-permutation-ii",
+    "id": 267
+  },
+  {
+    "paid_only": true,
+    "level": 1,
+    "title": "Palindrome Permutation",
+    "frequency": 250.7794366113323,
+    "link": "palindrome-permutation",
+    "id": 266
+  },
+  {
+    "paid_only": true,
+    "level": 3,
+    "title": "Paint House II",
+    "frequency": 106.25965785840592,
+    "link": "paint-house-ii",
+    "id": 265
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Ugly Number II",
+    "frequency": 353.9967535021182,
+    "link": "ugly-number-ii",
+    "id": 264
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Ugly Number",
+    "frequency": 455.19465631799886,
+    "link": "ugly-number",
+    "id": 263
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Trips and Users",
+    "frequency": 339.03260283982655,
+    "link": "trips-and-users",
+    "id": 262
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "Graph Valid Tree",
+    "frequency": 108.94658996490008,
+    "link": "graph-valid-tree",
+    "id": 261
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Single Number III",
+    "frequency": 468.12968062962574,
+    "link": "single-number-iii",
+    "id": 260
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "3Sum Smaller",
+    "frequency": 189.1238572342385,
+    "link": "3sum-smaller",
+    "id": 259
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Add Digits",
+    "frequency": 589.2003021800238,
+    "link": "add-digits",
+    "id": 258
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Binary Tree Paths",
+    "frequency": 366.01087429939724,
+    "link": "binary-tree-paths",
+    "id": 257
+  },
+  {
+    "paid_only": true,
+    "level": 1,
+    "title": "Paint House",
+    "frequency": 251.4461867797732,
+    "link": "paint-house",
+    "id": 256
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "Verify Preorder Sequence in Binary Search Tree",
+    "frequency": 210.22829513364732,
+    "link": "verify-preorder-sequence-in-binary-search-tree",
+    "id": 255
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "Factor Combinations",
+    "frequency": 148.0736461495072,
+    "link": "factor-combinations",
+    "id": 254
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "Meeting Rooms II",
+    "frequency": 351.5810357067799,
+    "link": "meeting-rooms-ii",
+    "id": 253
+  },
+  {
+    "paid_only": true,
+    "level": 1,
+    "title": "Meeting Rooms",
+    "frequency": 296.8369154127187,
+    "link": "meeting-rooms",
+    "id": 252
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "Flatten 2D Vector",
+    "frequency": 295.52065850307537,
+    "link": "flatten-2d-vector",
+    "id": 251
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "Count Univalue Subtrees",
+    "frequency": 312.84596707591055,
+    "link": "count-univalue-subtrees",
+    "id": 250
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "Group Shifted Strings",
+    "frequency": 200.28830765596436,
+    "link": "group-shifted-strings",
+    "id": 249
+  },
+  {
+    "paid_only": true,
+    "level": 3,
+    "title": "Strobogrammatic Number III",
+    "frequency": 163.26807577511462,
+    "link": "strobogrammatic-number-iii",
+    "id": 248
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "Strobogrammatic Number II",
+    "frequency": 133.923158811915,
+    "link": "strobogrammatic-number-ii",
+    "id": 247
+  },
+  {
+    "paid_only": true,
+    "level": 1,
+    "title": "Strobogrammatic Number",
+    "frequency": 152.91603684506694,
+    "link": "strobogrammatic-number",
+    "id": 246
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "Shortest Word Distance III",
+    "frequency": 77.64608831669588,
+    "link": "shortest-word-distance-iii",
+    "id": 245
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "Shortest Word Distance II",
+    "frequency": 260.8064925151137,
+    "link": "shortest-word-distance-ii",
+    "id": 244
+  },
+  {
+    "paid_only": true,
+    "level": 1,
+    "title": "Shortest Word Distance",
+    "frequency": 264.072719731523,
+    "link": "shortest-word-distance",
+    "id": 243
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Valid Anagram",
+    "frequency": 510.61010691114075,
+    "link": "valid-anagram",
+    "id": 242
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Different Ways to Add Parentheses",
+    "frequency": 439.1337961334563,
+    "link": "different-ways-to-add-parentheses",
+    "id": 241
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Search a 2D Matrix II",
+    "frequency": 450.27663667376936,
+    "link": "search-a-2d-matrix-ii",
+    "id": 240
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Sliding Window Maximum",
+    "frequency": 349.7507239439288,
+    "link": "sliding-window-maximum",
+    "id": 239
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Product of Array Except Self",
+    "frequency": 567.8438003217574,
+    "link": "product-of-array-except-self",
+    "id": 238
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Delete Node in a Linked List",
+    "frequency": 613.2283817183895,
+    "link": "delete-node-in-a-linked-list",
+    "id": 237
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Lowest Common Ancestor of a Binary Tree",
+    "frequency": 436.5698193798658,
+    "link": "lowest-common-ancestor-of-a-binary-tree",
+    "id": 236
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Lowest Common Ancestor of a Binary Search Tree",
+    "frequency": 503.43102236068256,
+    "link": "lowest-common-ancestor-of-a-binary-search-tree",
+    "id": 235
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Palindrome Linked List",
+    "frequency": 527.2640370038665,
+    "link": "palindrome-linked-list",
+    "id": 234
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Number of Digit One",
+    "frequency": 518.4554950469566,
+    "link": "number-of-digit-one",
+    "id": 233
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Implement Queue using Stacks",
+    "frequency": 420.5783810373294,
+    "link": "implement-queue-using-stacks",
+    "id": 232
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Power of Two",
+    "frequency": 466.8134237199824,
+    "link": "power-of-two",
+    "id": 231
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Kth Smallest Element in a BST",
+    "frequency": 358.6120394671996,
+    "link": "kth-smallest-element-in-a-bst",
+    "id": 230
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Majority Element II",
+    "frequency": 479.105497701473,
+    "link": "majority-element-ii",
+    "id": 229
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Summary Ranges",
+    "frequency": 497.0820323432719,
+    "link": "summary-ranges",
+    "id": 228
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Basic Calculator II",
+    "frequency": 341.14027647837594,
+    "link": "basic-calculator-ii",
+    "id": 227
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Invert Binary Tree",
+    "frequency": 582.3226263278343,
+    "link": "invert-binary-tree",
+    "id": 226
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Implement Stack using Queues",
+    "frequency": 292.1592337546121,
+    "link": "implement-stack-using-queues",
+    "id": 225
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Basic Calculator",
+    "frequency": 415.31026838493693,
+    "link": "basic-calculator",
+    "id": 224
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Rectangle Area",
+    "frequency": 522.6912803158191,
+    "link": "rectangle-area",
+    "id": 223
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Count Complete Tree Nodes",
+    "frequency": 372.6490024273407,
+    "link": "count-complete-tree-nodes",
+    "id": 222
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Maximal Square",
+    "frequency": 333.53226580084566,
+    "link": "maximal-square",
+    "id": 221
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Contains Duplicate III",
+    "frequency": 477.2804204671624,
+    "link": "contains-duplicate-iii",
+    "id": 220
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Contains Duplicate II",
+    "frequency": 520.0587664965324,
+    "link": "contains-duplicate-ii",
+    "id": 219
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "The Skyline Problem",
+    "frequency": 470.942665778822,
+    "link": "the-skyline-problem",
+    "id": 218
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Contains Duplicate",
+    "frequency": 571.7925710506875,
+    "link": "contains-duplicate",
+    "id": 217
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Combination Sum III",
+    "frequency": 322.54830667992536,
+    "link": "combination-sum-iii",
+    "id": 216
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Kth Largest Element in an Array",
+    "frequency": 408.4484509521647,
+    "link": "kth-largest-element-in-an-array",
+    "id": 215
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Shortest Palindrome",
+    "frequency": 396.4618352613439,
+    "link": "shortest-palindrome",
+    "id": 214
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "House Robber II",
+    "frequency": 253.35655017368543,
+    "link": "house-robber-ii",
+    "id": 213
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Word Search II",
+    "frequency": 319.0557631753357,
+    "link": "word-search-ii",
+    "id": 212
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Add and Search Word - Data structure design",
+    "frequency": 180.67816965730978,
+    "link": "add-and-search-word-data-structure-design",
+    "id": 211
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Course Schedule II",
+    "frequency": 196.2468675845988,
+    "link": "course-schedule-ii",
+    "id": 210
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Minimum Size Subarray Sum",
+    "frequency": 299.46942923200544,
+    "link": "minimum-size-subarray-sum",
+    "id": 209
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Implement Trie (Prefix Tree)",
+    "frequency": 379.69319706729885,
+    "link": "implement-trie-prefix-tree",
+    "id": 208
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Course Schedule",
+    "frequency": 311.53995957196156,
+    "link": "course-schedule",
+    "id": 207
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Reverse Linked List",
+    "frequency": 604.014583350886,
+    "link": "reverse-linked-list",
+    "id": 206
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Isomorphic Strings",
+    "frequency": 423.82169557634717,
+    "link": "isomorphic-strings",
+    "id": 205
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Count Primes",
+    "frequency": 444.81787265294946,
+    "link": "count-primes",
+    "id": 204
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Remove Linked List Elements",
+    "frequency": 411.0809647714514,
+    "link": "remove-linked-list-elements",
+    "id": 203
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Happy Number",
+    "frequency": 564.047757720355,
+    "link": "happy-number",
+    "id": 202
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Bitwise AND of Numbers Range",
+    "frequency": 357.29578255755627,
+    "link": "bitwise-and-of-numbers-range",
+    "id": 201
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Number of Islands",
+    "frequency": 547.2540225089107,
+    "link": "number-of-islands",
+    "id": 200
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Binary Tree Right Side View",
+    "frequency": 342.4565333880193,
+    "link": "binary-tree-right-side-view",
+    "id": 199
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "House Robber",
+    "frequency": 574.4250848699742,
+    "link": "house-robber",
+    "id": 198
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Rising Temperature",
+    "frequency": 552.5190501474841,
+    "link": "rising-temperature",
+    "id": 197
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Delete Duplicate Emails",
+    "frequency": 382.20517908140465,
+    "link": "delete-duplicate-emails",
+    "id": 196
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Tenth Line",
+    "frequency": 615.1579024687505,
+    "link": "tenth-line",
+    "id": 195
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Transpose File",
+    "frequency": 573.1088279603308,
+    "link": "transpose-file",
+    "id": 194
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Valid Phone Numbers",
+    "frequency": 575.7413417796175,
+    "link": "valid-phone-numbers",
+    "id": 193
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Word Frequency",
+    "frequency": 557.4664731721382,
+    "link": "word-frequency",
+    "id": 192
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Number of 1 Bits",
+    "frequency": 599.7303574571706,
+    "link": "number-of-1-bits",
+    "id": 191
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Reverse Bits",
+    "frequency": 430.33460424130254,
+    "link": "reverse-bits",
+    "id": 190
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Rotate Array",
+    "frequency": 487.8682339757684,
+    "link": "rotate-array",
+    "id": 189
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Best Time to Buy and Sell Stock IV",
+    "frequency": 454.3332302173405,
+    "link": "best-time-to-buy-and-sell-stock-iv",
+    "id": 188
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Repeated DNA Sequences",
+    "frequency": 459.6398883633373,
+    "link": "repeated-dna-sequences",
+    "id": 187
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "Reverse Words in a String II",
+    "frequency": 173.41287010054052,
+    "link": "reverse-words-in-a-string-ii",
+    "id": 186
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Department Top Three Salaries",
+    "frequency": 480.42175461111634,
+    "link": "department-top-three-salaries",
+    "id": 185
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Department Highest Salary",
+    "frequency": 328.7733346237349,
+    "link": "department-highest-salary",
+    "id": 184
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Customers Who Never Order",
+    "frequency": 291.3864510831175,
+    "link": "customers-who-never-order",
+    "id": 183
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Duplicate Emails",
+    "frequency": 409.76470786180806,
+    "link": "duplicate-emails",
+    "id": 182
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Employees Earning More Than Their Managers",
+    "frequency": 486.55197706612506,
+    "link": "employees-earning-more-than-their-managers",
+    "id": 181
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Consecutive Numbers",
+    "frequency": 448.6213755101141,
+    "link": "consecutive-numbers",
+    "id": 180
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Largest Number",
+    "frequency": 516.1164637710485,
+    "link": "largest-number",
+    "id": 179
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Rank Scores",
+    "frequency": 413.9940114752936,
+    "link": "rank-scores",
+    "id": 178
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Nth Highest Salary",
+    "frequency": 333.2590498744526,
+    "link": "nth-highest-salary",
+    "id": 177
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Second Highest Salary",
+    "frequency": 507.37979308961263,
+    "link": "second-highest-salary",
+    "id": 176
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Combine Two Tables",
+    "frequency": 620.422930107324,
+    "link": "combine-two-tables",
+    "id": 175
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Dungeon Game",
+    "frequency": 309.4035794361085,
+    "link": "dungeon-game",
+    "id": 174
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Binary Search Tree Iterator",
+    "frequency": 513.2426207304275,
+    "link": "binary-search-tree-iterator",
+    "id": 173
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Factorial Trailing Zeroes",
+    "frequency": 562.7315008107116,
+    "link": "factorial-trailing-zeroes",
+    "id": 172
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Excel Sheet Column Number",
+    "frequency": 565.2112865024707,
+    "link": "excel-sheet-column-number",
+    "id": 171
+  },
+  {
+    "paid_only": true,
+    "level": 1,
+    "title": "Two Sum III - Data structure design",
+    "frequency": 228.41140668425572,
+    "link": "two-sum-iii-data-structure-design",
+    "id": 170
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Majority Element",
+    "frequency": 597.0978436378839,
+    "link": "majority-element",
+    "id": 169
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Excel Sheet Column Title",
+    "frequency": 427.7832285578715,
+    "link": "excel-sheet-column-title",
+    "id": 168
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Two Sum II - Input array is sorted",
+    "frequency": 425.98524749531515,
+    "link": "two-sum-ii-input-array-is-sorted",
+    "id": 167
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Fraction to Recurring Decimal",
+    "frequency": 386.53773250936007,
+    "link": "fraction-to-recurring-decimal",
+    "id": 166
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Compare Version Numbers",
+    "frequency": 412.6777545656502,
+    "link": "compare-version-numbers",
+    "id": 165
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Maximum Gap",
+    "frequency": 493.13326161434185,
+    "link": "maximum-gap",
+    "id": 164
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "Missing Ranges",
+    "frequency": 238.5812308407501,
+    "link": "missing-ranges",
+    "id": 163
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Find Peak Element",
+    "frequency": 443.5016157433061,
+    "link": "find-peak-element",
+    "id": 162
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "One Edit Distance",
+    "frequency": 317.69516184590356,
+    "link": "one-edit-distance",
+    "id": 161
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Intersection of Two Linked Lists",
+    "frequency": 532.52906464244,
+    "link": "intersection-of-two-linked-lists",
+    "id": 160
+  },
+  {
+    "paid_only": true,
+    "level": 3,
+    "title": "Longest Substring with At Most Two Distinct Characters",
+    "frequency": 236.0676200213461,
+    "link": "longest-substring-with-at-most-two-distinct-characters",
+    "id": 159
+  },
+  {
+    "paid_only": true,
+    "level": 3,
+    "title": "Read N Characters Given Read4 II - Call multiple times",
+    "frequency": 226.8947350927944,
+    "link": "read-n-characters-given-read4-ii-call-multiple-times",
+    "id": 158
+  },
+  {
+    "paid_only": true,
+    "level": 1,
+    "title": "Read N Characters Given Read4",
+    "frequency": 252.75083320514904,
+    "link": "read-n-characters-given-read4",
+    "id": 157
+  },
+  {
+    "paid_only": true,
+    "level": 2,
+    "title": "Binary Tree Upside Down",
+    "frequency": 264.26450561002906,
+    "link": "binary-tree-upside-down",
+    "id": 156
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Min Stack",
+    "frequency": 602.3628712764573,
+    "link": "min-stack",
+    "id": 155
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Find Minimum in Rotated Sorted Array II",
+    "frequency": 393.11901705757685,
+    "link": "find-minimum-in-rotated-sorted-array-ii",
+    "id": 154
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Find Minimum in Rotated Sorted Array",
+    "frequency": 539.3564810510505,
+    "link": "find-minimum-in-rotated-sorted-array",
+    "id": 153
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Maximum Product Subarray",
+    "frequency": 535.1615784617267,
+    "link": "maximum-product-subarray",
+    "id": 152
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Reverse Words in a String",
+    "frequency": 594.4653298185972,
+    "link": "reverse-words-in-a-string",
+    "id": 151
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Evaluate Reverse Polish Notation",
+    "frequency": 525.9477800942232,
+    "link": "evaluate-reverse-polish-notation",
+    "id": 150
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Max Points on a Line",
+    "frequency": 558.7827300817816,
+    "link": "max-points-on-a-line",
+    "id": 149
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Sort List",
+    "frequency": 581.006369418191,
+    "link": "sort-list",
+    "id": 148
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Insertion Sort List",
+    "frequency": 506.0635361799693,
+    "link": "insertion-sort-list",
+    "id": 147
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "LRU Cache",
+    "frequency": 606.6470971701727,
+    "link": "lru-cache",
+    "id": 146
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Binary Tree Postorder Traversal",
+    "frequency": 294.204401593432,
+    "link": "binary-tree-postorder-traversal",
+    "id": 145
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Binary Tree Preorder Traversal",
+    "frequency": 329.2330383578763,
+    "link": "binary-tree-preorder-traversal",
+    "id": 144
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Reorder List",
+    "frequency": 435.43953685732623,
+    "link": "reorder-list",
+    "id": 143
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Linked List Cycle II",
+    "frequency": 485.2357201564817,
+    "link": "linked-list-cycle-ii",
+    "id": 142
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Linked List Cycle",
+    "frequency": 583.6388832374777,
+    "link": "linked-list-cycle",
+    "id": 141
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Word Break II",
+    "frequency": 435.744654180278,
+    "link": "word-break-ii",
+    "id": 140
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Word Break",
+    "frequency": 549.8865363281974,
+    "link": "word-break",
+    "id": 139
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Copy List with Random Pointer",
+    "frequency": 551.2027932378408,
+    "link": "copy-list-with-random-pointer",
+    "id": 138
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Single Number II",
+    "frequency": 553.8353070571275,
+    "link": "single-number-ii",
+    "id": 137
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Single Number",
+    "frequency": 627.0042146555407,
+    "link": "single-number",
+    "id": 136
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Candy",
+    "frequency": 394.89582036485587,
+    "link": "candy",
+    "id": 135
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Gas Station",
+    "frequency": 440.49219079244523,
+    "link": "gas-station",
+    "id": 134
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Clone Graph",
+    "frequency": 363.2335889727976,
+    "link": "clone-graph",
+    "id": 133
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Palindrome Partitioning II",
+    "frequency": 271.48075827375857,
+    "link": "palindrome-partitioning-ii",
+    "id": 132
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Palindrome Partitioning",
+    "frequency": 346.02741845854206,
+    "link": "palindrome-partitioning",
+    "id": 131
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Surrounded Regions",
+    "frequency": 290.91089433103656,
+    "link": "surrounded-regions",
+    "id": 130
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Sum Root to Leaf Numbers",
+    "frequency": 240.37864569839843,
+    "link": "sum-root-to-leaf-numbers",
+    "id": 129
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Longest Consecutive Sequence",
+    "frequency": 498.3982892529153,
+    "link": "longest-consecutive-sequence",
+    "id": 128
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Word Ladder",
+    "frequency": 431.6508611509459,
+    "link": "word-ladder",
+    "id": 127
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Word Ladder II",
+    "frequency": 339.07485783978365,
+    "link": "word-ladder-ii",
+    "id": 126
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Valid Palindrome",
+    "frequency": 424.23291807773325,
+    "link": "valid-palindrome",
+    "id": 125
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Binary Tree Maximum Path Sum",
+    "frequency": 441.8084477020886,
+    "link": "binary-tree-maximum-path-sum",
+    "id": 124
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Best Time to Buy and Sell Stock III",
+    "frequency": 422.21393503940743,
+    "link": "best-time-to-buy-and-sell-stock-iii",
+    "id": 123
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Best Time to Buy and Sell Stock II",
+    "frequency": 591.8328159993105,
+    "link": "best-time-to-buy-and-sell-stock-ii",
+    "id": 122
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Best Time to Buy and Sell Stock",
+    "frequency": 579.6901125085476,
+    "link": "best-time-to-buy-and-sell-stock",
+    "id": 121
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Triangle",
+    "frequency": 446.1341295625928,
+    "link": "triangle",
+    "id": 120
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Pascal's Triangle II",
+    "frequency": 376.67978860201407,
+    "link": "pascals-triangle-ii",
+    "id": 119
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Pascal's Triangle",
+    "frequency": 523.0668952391852,
+    "link": "pascals-triangle",
+    "id": 118
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Populating Next Right Pointers in Each Node II",
+    "frequency": 287.54519951294895,
+    "link": "populating-next-right-pointers-in-each-node-ii",
+    "id": 117
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Populating Next Right Pointers in Each Node",
+    "frequency": 424.14136950494793,
+    "link": "populating-next-right-pointers-in-each-node",
+    "id": 116
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Distinct Subsequences",
+    "frequency": 450.86212886118113,
+    "link": "distinct-subsequences",
+    "id": 115
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Flatten Binary Tree to Linked List",
+    "frequency": 365.315187867254,
+    "link": "flatten-binary-tree-to-linked-list",
+    "id": 114
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Path Sum II",
+    "frequency": 265.5807625196724,
+    "link": "path-sum-ii",
+    "id": 113
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Path Sum",
+    "frequency": 373.96525933698405,
+    "link": "path-sum",
+    "id": 112
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Minimum Depth of Binary Tree",
+    "frequency": 340.391114749427,
+    "link": "minimum-depth-of-binary-tree",
+    "id": 111
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Balanced Binary Tree",
+    "frequency": 494.4495185239852,
+    "link": "balanced-binary-tree",
+    "id": 110
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Convert Sorted List to Binary Search Tree",
+    "frequency": 383.521435991048,
+    "link": "convert-sorted-list-to-binary-search-tree",
+    "id": 109
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Convert Sorted Array to Binary Search Tree",
+    "frequency": 483.73229864009323,
+    "link": "convert-sorted-array-to-binary-search-tree",
+    "id": 108
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Binary Tree Level Order Traversal II",
+    "frequency": 315.06264802661684,
+    "link": "binary-tree-level-order-traversal-ii",
+    "id": 107
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Construct Binary Tree from Inorder and Postorder Traversal",
+    "frequency": 311.4803887399118,
+    "link": "construct-binary-tree-from-inorder-and-postorder-traversal",
+    "id": 106
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+    "frequency": 408.43393591913485,
+    "link": "construct-binary-tree-from-preorder-and-inorder-traversal",
+    "id": 105
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Maximum Depth of Binary Tree",
+    "frequency": 611.9121248087462,
+    "link": "maximum-depth-of-binary-tree",
+    "id": 104
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Binary Tree Zigzag Level Order Traversal",
+    "frequency": 277.844238837334,
+    "link": "binary-tree-zigzag-level-order-traversal",
+    "id": 103
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Binary Tree Level Order Traversal",
+    "frequency": 397.86838673999097,
+    "link": "binary-tree-level-order-traversal",
+    "id": 102
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Symmetric Tree",
+    "frequency": 432.96711806058926,
+    "link": "symmetric-tree",
+    "id": 101
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Same Tree",
+    "frequency": 525.6994090584719,
+    "link": "same-tree",
+    "id": 100
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Recover Binary Search Tree",
+    "frequency": 387.8539894190034,
+    "link": "recover-binary-search-tree",
+    "id": 99
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Validate Binary Search Tree",
+    "frequency": 309.9883369841735,
+    "link": "validate-binary-search-tree",
+    "id": 98
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Interleaving String",
+    "frequency": 358.8580557176662,
+    "link": "interleaving-string",
+    "id": 97
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Unique Binary Search Trees",
+    "frequency": 509.2938500014974,
+    "link": "unique-binary-search-trees",
+    "id": 96
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Unique Binary Search Trees II",
+    "frequency": 335.2552653065051,
+    "link": "unique-binary-search-trees-ii",
+    "id": 95
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Binary Tree Inorder Traversal",
+    "frequency": 333.6349524710378,
+    "link": "binary-tree-inorder-traversal",
+    "id": 94
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Restore IP Addresses",
+    "frequency": 360.1743126273096,
+    "link": "restore-ip-addresses",
+    "id": 93
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Reverse Linked List II",
+    "frequency": 361.91303099063913,
+    "link": "reverse-linked-list-ii",
+    "id": 92
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Decode Ways",
+    "frequency": 385.2214755997167,
+    "link": "decode-ways",
+    "id": 91
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Subsets II",
+    "frequency": 261.96637917276956,
+    "link": "subsets-ii",
+    "id": 90
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Gray Code",
+    "frequency": 475.96416355751904,
+    "link": "gray-code",
+    "id": 89
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Merge Sorted Array",
+    "frequency": 543.3052517799806,
+    "link": "merge-sorted-array",
+    "id": 88
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Scramble String",
+    "frequency": 352.8972926164233,
+    "link": "scramble-string",
+    "id": 87
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Partition List",
+    "frequency": 347.1182101246421,
+    "link": "partition-list",
+    "id": 86
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Maximal Rectangle",
+    "frequency": 515.8751345497142,
+    "link": "maximal-rectangle",
+    "id": 85
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Largest Rectangle in Histogram",
+    "frequency": 374.4474890398382,
+    "link": "largest-rectangle-in-histogram",
+    "id": 84
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Remove Duplicates from Sorted List",
+    "frequency": 407.1176790094915,
+    "link": "remove-duplicates-from-sorted-list",
+    "id": 83
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Remove Duplicates from Sorted List II",
+    "frequency": 279.2884686881542,
+    "link": "remove-duplicates-from-sorted-list-ii",
+    "id": 82
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Search in Rotated Sorted Array II",
+    "frequency": 343.39490463925534,
+    "link": "search-in-rotated-sorted-array-ii",
+    "id": 81
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Remove Duplicates from Sorted Array II",
+    "frequency": 343.2004585686813,
+    "link": "remove-duplicates-from-sorted-array-ii",
+    "id": 80
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Word Search",
+    "frequency": 468.56680720969683,
+    "link": "word-search",
+    "id": 79
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Subsets",
+    "frequency": 404.08052306993176,
+    "link": "subsets",
+    "id": 78
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Combinations",
+    "frequency": 364.7117354279557,
+    "link": "combinations",
+    "id": 77
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Minimum Window Substring",
+    "frequency": 418.5108675180141,
+    "link": "minimum-window-substring",
+    "id": 76
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Sort Colors",
+    "frequency": 390.48650323829014,
+    "link": "sort-colors",
+    "id": 75
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Search a 2D Matrix",
+    "frequency": 331.865552177163,
+    "link": "search-a-2d-matrix",
+    "id": 74
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Set Matrix Zeroes",
+    "frequency": 455.69111763440725,
+    "link": "set-matrix-zeroes",
+    "id": 73
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Edit Distance",
+    "frequency": 514.5588776400708,
+    "link": "edit-distance",
+    "id": 72
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Simplify Path",
+    "frequency": 344.7111615488987,
+    "link": "simplify-path",
+    "id": 71
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Climbing Stairs",
+    "frequency": 586.5081188012362,
+    "link": "climbing-stairs",
+    "id": 70
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Sqrt(x)",
+    "frequency": 474.6479066478757,
+    "link": "sqrtx",
+    "id": 69
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Text Justification",
+    "frequency": 336.5715222161485,
+    "link": "text-justification",
+    "id": 68
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Add Binary",
+    "frequency": 545.9377655992673,
+    "link": "add-binary",
+    "id": 67
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Plus One",
+    "frequency": 598.4141005475273,
+    "link": "plus-one",
+    "id": 66
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Valid Number",
+    "frequency": 422.5054386667038,
+    "link": "valid-number",
+    "id": 65
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Minimum Path Sum",
+    "frequency": 437.88607628950916,
+    "link": "minimum-path-sum",
+    "id": 64
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Unique Paths II",
+    "frequency": 214.65221629958916,
+    "link": "unique-paths-ii",
+    "id": 63
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Unique Paths",
+    "frequency": 429.09948546751485,
+    "link": "unique-paths",
+    "id": 62
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Rotate List",
+    "frequency": 337.7163459301832,
+    "link": "rotate-list",
+    "id": 61
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Permutation Sequence",
+    "frequency": 324.82456389480484,
+    "link": "permutation-sequence",
+    "id": 60
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Spiral Matrix II",
+    "frequency": 402.01371025778036,
+    "link": "spiral-matrix-ii",
+    "id": 59
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Length of Last Word",
+    "frequency": 369.051348974355,
+    "link": "length-of-last-word",
+    "id": 58
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Insert Interval",
+    "frequency": 314.0379797303944,
+    "link": "insert-interval",
+    "id": 57
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Merge Intervals",
+    "frequency": 536.47783537137,
+    "link": "merge-intervals",
+    "id": 56
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Jump Game",
+    "frequency": 400.47949027164583,
+    "link": "jump-game",
+    "id": 55
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Spiral Matrix",
+    "frequency": 499.69099272415616,
+    "link": "spiral-matrix",
+    "id": 54
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Maximum Subarray",
+    "frequency": 587.8243757108795,
+    "link": "maximum-subarray",
+    "id": 53
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "N-Queens II",
+    "frequency": 363.2292879002825,
+    "link": "n-queens-ii",
+    "id": 52
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "N-Queens",
+    "frequency": 395.1455783517005,
+    "link": "n-queens",
+    "id": 51
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Pow(x, n)",
+    "frequency": 561.4152439010683,
+    "link": "powx-n",
+    "id": 50
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Group Anagrams",
+    "frequency": 540.6727379606939,
+    "link": "group-anagrams",
+    "id": 49
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Rotate Image",
+    "frequency": 533.8453215520833,
+    "link": "rotate-image",
+    "id": 48
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Permutations II",
+    "frequency": 302.9181736059351,
+    "link": "permutations-ii",
+    "id": 47
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Permutations",
+    "frequency": 502.4773901773728,
+    "link": "permutations",
+    "id": 46
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Jump Game II",
+    "frequency": 381.79595021781125,
+    "link": "jump-game-ii",
+    "id": 45
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Wildcard Matching",
+    "frequency": 351.06698085357215,
+    "link": "wildcard-matching",
+    "id": 44
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Multiply Strings",
+    "frequency": 463.1334871204903,
+    "link": "multiply-strings",
+    "id": 43
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Trapping Rain Water",
+    "frequency": 577.0575986892609,
+    "link": "trapping-rain-water",
+    "id": 42
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "First Missing Positive",
+    "frequency": 481.8446376429002,
+    "link": "first-missing-positive",
+    "id": 41
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Combination Sum II",
+    "frequency": 201.60456456560772,
+    "link": "combination-sum-ii",
+    "id": 40
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Combination Sum",
+    "frequency": 422.32746694668543,
+    "link": "combination-sum",
+    "id": 39
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Count and Say",
+    "frequency": 578.3738555989042,
+    "link": "count-and-say",
+    "id": 38
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Sudoku Solver",
+    "frequency": 405.1536973528886,
+    "link": "sudoku-solver",
+    "id": 37
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Valid Sudoku",
+    "frequency": 507.97759309185403,
+    "link": "valid-sudoku",
+    "id": 36
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Search Insert Position",
+    "frequency": 369.99746442813245,
+    "link": "search-insert-position",
+    "id": 35
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Search for a Range",
+    "frequency": 355.9795256479129,
+    "link": "search-for-a-range",
+    "id": 34
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Search in Rotated Sorted Array",
+    "frequency": 511.9263638207841,
+    "link": "search-in-rotated-sorted-array",
+    "id": 33
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Longest Valid Parentheses",
+    "frequency": 375.3635316923707,
+    "link": "longest-valid-parentheses",
+    "id": 32
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Next Permutation",
+    "frequency": 438.561707449342,
+    "link": "next-permutation",
+    "id": 31
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Substring with Concatenation of All Words",
+    "frequency": 368.64338811868396,
+    "link": "substring-with-concatenation-of-all-words",
+    "id": 30
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Divide Two Integers",
+    "frequency": 484.838356776318,
+    "link": "divide-two-integers",
+    "id": 29
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Implement strStr()",
+    "frequency": 517.1392381373132,
+    "link": "implement-strstr",
+    "id": 28
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Remove Element",
+    "frequency": 548.570279418554,
+    "link": "remove-element",
+    "id": 27
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Remove Duplicates from Sorted Array",
+    "frequency": 541.9889948703373,
+    "link": "remove-duplicates-from-sorted-array",
+    "id": 26
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Reverse Nodes in k-Group",
+    "frequency": 353.42332756484,
+    "link": "reverse-nodes-in-k-group",
+    "id": 25
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Swap Nodes in Pairs",
+    "frequency": 449.6858760454175,
+    "link": "swap-nodes-in-pairs",
+    "id": 24
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Merge k Sorted Lists",
+    "frequency": 570.4763141410441,
+    "link": "merge-k-sorted-lists",
+    "id": 23
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Generate Parentheses",
+    "frequency": 544.621508689624,
+    "link": "generate-parentheses",
+    "id": 22
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Merge Two Sorted Lists",
+    "frequency": 602.6983264412427,
+    "link": "merge-two-sorted-lists",
+    "id": 21
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Valid Parentheses",
+    "frequency": 605.3308402605294,
+    "link": "valid-parentheses",
+    "id": 20
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Remove Nth Node From End of List",
+    "frequency": 452.1783857708245,
+    "link": "remove-nth-node-from-end-of-list",
+    "id": 19
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "4Sum",
+    "frequency": 378.3769401576555,
+    "link": "4sum",
+    "id": 18
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Letter Combinations of a Phone Number",
+    "frequency": 556.1502162624948,
+    "link": "letter-combinations-of-a-phone-number",
+    "id": 17
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "3Sum Closest",
+    "frequency": 469.62640886917865,
+    "link": "3sum-closest",
+    "id": 16
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "3Sum",
+    "frequency": 569.1600572314007,
+    "link": "3sum",
+    "id": 15
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Longest Common Prefix",
+    "frequency": 617.7904162880372,
+    "link": "longest-common-prefix",
+    "id": 14
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Roman to Integer",
+    "frequency": 628.3204715651841,
+    "link": "roman-to-integer",
+    "id": 13
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Integer to Roman",
+    "frequency": 610.5958678991028,
+    "link": "integer-to-roman",
+    "id": 12
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Container With Most Water",
+    "frequency": 614.5446386280329,
+    "link": "container-with-most-water",
+    "id": 11
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Regular Expression Matching",
+    "frequency": 566.527543412114,
+    "link": "regular-expression-matching",
+    "id": 10
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Palindrome Number",
+    "frequency": 609.2796109894595,
+    "link": "palindrome-number",
+    "id": 9
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "String to Integer (atoi)",
+    "frequency": 528.5802939135099,
+    "link": "string-to-integer-atoi",
+    "id": 8
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Reverse Integer",
+    "frequency": 607.9633540798161,
+    "link": "reverse-integer",
+    "id": 7
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "ZigZag Conversion",
+    "frequency": 623.0554439266107,
+    "link": "zigzag-conversion",
+    "id": 6
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Longest Palindromic Substring",
+    "frequency": 601.046614366814,
+    "link": "longest-palindromic-substring",
+    "id": 5
+  },
+  {
+    "paid_only": false,
+    "level": 3,
+    "title": "Median of Two Sorted Arrays",
+    "frequency": 625.6879577458974,
+    "link": "median-of-two-sorted-arrays",
+    "id": 4
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Longest Substring Without Repeating Characters",
+    "frequency": 616.4741593783939,
+    "link": "longest-substring-without-repeating-characters",
+    "id": 3
+  },
+  {
+    "paid_only": false,
+    "level": 2,
+    "title": "Add Two Numbers",
+    "frequency": 632.2692422941142,
+    "link": "add-two-numbers",
+    "id": 2
+  },
+  {
+    "paid_only": false,
+    "level": 1,
+    "title": "Two Sum",
+    "frequency": 633.5854992037575,
+    "link": "two-sum",
+    "id": 1
+  }
+]

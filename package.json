@@ -1,0 +1,21 @@
+{
+  "name": "1337code",
+  "version": "1.0.0",
+  "homepage": "https://1337c0d3.github.io/1337code/",
+  "private": true,
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "react": "^16.0.0",
+    "react-bootstrap-table": "^4.1.0",
+    "react-dom": "^16.0.0",
+    "react-scripts": "1.0.14"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
